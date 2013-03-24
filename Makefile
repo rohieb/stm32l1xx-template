@@ -45,7 +45,7 @@ PART_TYPE = md
 #######################################
 # binaries
 #######################################
-CC = ~/code/gcc-arm-none-eabi/bin/arm-none-eabi-gcc-4.7.3
+CC = bin/arm-none-eabi-gcc-4.7.3
 AR = ar
 MKDIR = mkdir -p
 #######################################
