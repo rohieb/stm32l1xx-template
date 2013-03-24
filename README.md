@@ -11,7 +11,7 @@ your PATH.
 
 You will also need to download and extract the STM32L1 StdPeriphLib, which can
 be found
-[here](http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/PF257913)
+[here](http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/PF257913).
 
 ## Writing and Building Firmware
 
@@ -29,6 +29,7 @@ be found
       peripherial library.
     * Set PART\_TYPE to the type of your part. This can be md (medium density),
       mdp (medium density plus), or hd (high density).
+
 
 3. Run `make`
 
