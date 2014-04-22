@@ -16,7 +16,7 @@ be found
 ## Writing and Building Firmware
 
 1. Clone the
-   [stm32l1-template](https://github.com/uctools/stm32l1-template)
+   [stm32l1xx-template](https://github.com/uctools/stm32l1xx-template)
    repository (or fork it and clone your own repository).
 
         git clone git@github.com/uctools:stm32l1-template
